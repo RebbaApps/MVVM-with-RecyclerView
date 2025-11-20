@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM_with_RecyclerView</string>
+    <string name="users_list">Users List</string>
+</resources>
