@@ -1,4 +1,4 @@
-package com.mvvm_with_recyclerview.viewMpdel;
+package com.mvvm_with_recyclerview.viewModel;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.ViewModel;

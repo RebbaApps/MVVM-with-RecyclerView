@@ -1,18 +1,15 @@
 package com.mvvm_with_recyclerview.ui;
 
 import android.os.Bundle;
-import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.mvvm_with_recyclerview.R;
-import com.mvvm_with_recyclerview.viewMpdel.UserViewModel;
+import com.mvvm_with_recyclerview.viewModel.UserViewModel;
 
 public class MainActivity extends AppCompatActivity {
 
